@@ -64,7 +64,7 @@ public class BannerTest extends ActionBarActivity
 
     }
 
-    @Override
+
     private void setupListeners()
     {
         textChangeButton.setOnClickListener(new View.OnClickListener()
